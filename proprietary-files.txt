@@ -1,4 +1,4 @@
-# Unpinned blobs from gta7litewifixx-user 14 UP1A.231005.007 T220XXSAEYE4 release-keys
+# Unpinned blobs from gta7litexx-user 14 UP1A.231005.007 T220XXSAEYE4 release-keys
 
 # TEE
 vendor/tee/00000000-0000-0000-0000-0000534b504d

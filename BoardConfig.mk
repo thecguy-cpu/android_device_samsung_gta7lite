@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/samsung/gta7litewifi
+DEVICE_PATH := device/samsung/gta7lite
 
 # Inherit from mt6765-common
 include device/samsung/mt6765-common/BoardConfigCommon.mk
@@ -13,7 +13,7 @@ include device/samsung/mt6765-common/BoardConfigCommon.mk
 TARGET_SCREEN_DENSITY := 213
 
 # Kernel
-TARGET_KERNEL_CONFIG := gta7litewifi_defconfig
+TARGET_KERNEL_CONFIG := gta7lite_defconfig
 
 # Properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop

@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_gta7litewifi.mk
+    $(LOCAL_DIR)/lineage_gta7lite.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_gta7litewifi-user \
-    lineage_gta7litewifi-userdebug \
-    lineage_gta7litewifi-eng
+    lineage_gta7lite-user \
+    lineage_gta7lite-userdebug \
+    lineage_gta7lite-eng
